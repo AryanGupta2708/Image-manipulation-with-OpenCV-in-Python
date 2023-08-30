@@ -18,7 +18,7 @@ Step 1: Importing the required modules
 
 Step 2: Building a File Box to choose a particular file
 
-Step 3: How is an image stored?
+Step 3: Storing image in the form of numbers
 
 Step 4: Transforming an image to grayscale
 
